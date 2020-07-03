@@ -1,0 +1,27 @@
+{
+"produk" : [ {
+  "merek" :  "Honda",
+  "harga" : 234455,
+  "gambar" : "supra.png" },
+  
+ {
+  "merek" :  "Honda",
+  "harga" : 234455,
+  "gambar" : "supra.png" },
+  
+  {
+  "merek" :  "Honda",
+  "harga" : 234455,
+  "gambar" : "supra.png" },
+  
+  {
+  "merek" :  "Honda",
+  "harga" : 234455,
+  "gambar" : "supra.png" },
+  
+  {
+  "merek" :  "Honda",
+  "harga" : 234455,
+  "gambar" : "supra.png" }
+]
+}
